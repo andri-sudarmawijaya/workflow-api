@@ -1,0 +1,23 @@
+{
+  "description": "REST API untuk untuk workflow",
+  "name": "bantenprov/workflow-api",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/workflow-api",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/workflow-api,",
+    "issues": "https://github.com/bantenprov/workflow-api/issues",
+    "wiki": "https://github.com/bantenprov/workflow-api/wiki"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "bantenprov/workflow": "1.0.*"
+  }
+}
